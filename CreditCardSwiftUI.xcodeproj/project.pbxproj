@@ -13,6 +13,8 @@
 		34498B4A24FAF3EB00CD0E83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34498B3524FAF3EA00CD0E83 /* ContentView.swift */; };
 		34498B4B24FAF3EB00CD0E83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34498B3624FAF3EB00CD0E83 /* Assets.xcassets */; };
 		34498B4C24FAF3EB00CD0E83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34498B3624FAF3EB00CD0E83 /* Assets.xcassets */; };
+		34498B5624FAF41200CD0E83 /* CreditCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34498B5524FAF41200CD0E83 /* CreditCard.swift */; };
+		34498B5724FAF41200CD0E83 /* CreditCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34498B5524FAF41200CD0E83 /* CreditCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,7 @@
 		34498B4324FAF3EB00CD0E83 /* CreditCardSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreditCardSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34498B4524FAF3EB00CD0E83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34498B4624FAF3EB00CD0E83 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		34498B5524FAF41200CD0E83 /* CreditCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,7 @@
 				34498B3424FAF3EA00CD0E83 /* CreditCardSwiftUIApp.swift */,
 				34498B3524FAF3EA00CD0E83 /* ContentView.swift */,
 				34498B3624FAF3EB00CD0E83 /* Assets.xcassets */,
+				34498B5524FAF41200CD0E83 /* CreditCard.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -187,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34498B5624FAF41200CD0E83 /* CreditCard.swift in Sources */,
 				34498B4924FAF3EB00CD0E83 /* ContentView.swift in Sources */,
 				34498B4724FAF3EB00CD0E83 /* CreditCardSwiftUIApp.swift in Sources */,
 			);
@@ -196,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34498B5724FAF41200CD0E83 /* CreditCard.swift in Sources */,
 				34498B4A24FAF3EB00CD0E83 /* ContentView.swift in Sources */,
 				34498B4824FAF3EB00CD0E83 /* CreditCardSwiftUIApp.swift in Sources */,
 			);
